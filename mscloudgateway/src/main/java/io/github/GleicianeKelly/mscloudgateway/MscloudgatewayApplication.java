@@ -21,7 +21,7 @@ public class MscloudgatewayApplication {
 
 }
 
-@Bean
+    @Bean
 	public RouteLocator routes(RouteLocatorBuilder builder){
 		return builder
 				.routes()
