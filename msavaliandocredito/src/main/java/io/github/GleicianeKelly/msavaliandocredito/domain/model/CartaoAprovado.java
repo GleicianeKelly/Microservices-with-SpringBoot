@@ -9,5 +9,5 @@ public class CartaoAprovado {
 
     private String cartao;
     private String bandeira;
-    private BigDecimal limiteAprovador;
+    private BigDecimal limiteAprovado;
 }
